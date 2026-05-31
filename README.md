@@ -26,3 +26,22 @@ Passionate about building production-ready AI/ML systems, cloud infrastructure, 
 | **Backend Architectures** | Node.js, Express.js, Flask, SQLAlchemy, SQLite, MySQL |
 | **Frontend Engineering** | React 18, Vite, Tailwind CSS, XML (Android Studio), React Flow |
 | **Real-Time Systems** | Socket.io (WebSockets), Parallel Processing |
+
+---
+
+###  Featured Software Platforms
+
+####  Orbit — Real-Time Collaborative Infinite Canvas & AI Spatial System
+* Architected a real-time multiplayer brainstorming canvas using the MERN stack and Socket.io for low-latency room state synchronization.
+* Integrated React Flow to manage complex fluid node layouts and nested UI tracking canvas states natively.
+* Interfaced with the Google Gemini API to dynamically stream structured AI mind-maps and action items straight onto the live board.
+
+####  Relay — Full-Stack Multi-Tenant Franchise Operations Hub
+* Engineered a centralized enterprise dashboard using React 18, Vite, and Tailwind CSS to simplify high-throughput B2B pipeline visibility.
+* Enforced strict backend custom JWT Role-Based Access Control (RBAC) across 4 unique system user roles.
+* Managed automated data analytics and relational stock inventory calculation trees utilizing SQLAlchemy and MySQL.
+
+####  HireFlow AI — High-Throughput Automated Resume Screening Platform
+* Developed an AI-driven recruitment engine that parses unstructured candidate files (PDF/DOCX) using parallel processing.
+* Implemented text analytics matching pipelines powered by TF-IDF vectorization and Scikit-Learn Cosine Similarity models.
+* Generated automated matching score matrix tiers to rank applicants based on contextual relevance to incoming job requirements.
