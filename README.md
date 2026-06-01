@@ -9,13 +9,6 @@ Passionate about building production-ready AI/ML systems, cloud infrastructure, 
 
 ---
 
-###  What I'm Currently Building & Optimizing:
-* **Relay** — A full-stack franchise operations hub with strict custom JWT Role-Based Access Control (RBAC).
-* **Orbit** — An AI-native real-time collaborative infinite canvas platform with multi-user synchronization.
-* **HireFlow AI** — A high-throughput automated resume screening and NLP candidate matching SaaS.
-
----
-
 ### Core Engineering Stack & Tooling
 
 | Category | Technologies & Frameworks |
