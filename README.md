@@ -45,3 +45,12 @@ Passionate about building production-ready AI/ML systems, cloud infrastructure, 
 * Developed an AI-driven recruitment engine that parses unstructured candidate files (PDF/DOCX) using parallel processing.
 * Implemented text analytics matching pipelines powered by TF-IDF vectorization and Scikit-Learn Cosine Similarity models.
 * Generated automated matching score matrix tiers to rank applicants based on contextual relevance to incoming job requirements.
+
+---
+
+##  Contribution Highlights (Backend Architecture Focus)
+
+This fork contains optimized backend infrastructure implementations designed to handle production-scale operational flows cleanly:
+* **Custom JWT RBAC:** Architected a secure token verification workflow enforcing granular Role-Based Access Control limitations across 4 user management tiers.
+* **Relational Database Design:** Formulated algorithmic stock tracking modules utilizing SQLAlchemy and object-relational mapping logic to eliminate data anomalies.
+* **Modular Interface Components:** Enhanced frontend pipeline scannability by styling custom layouts with Tailwind CSS and React 18 component trees.
